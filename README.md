@@ -6,4 +6,5 @@ Demo builds of the Paletrove Lymphatic Support advertorial pages, for the team t
 
 - `/` (site root) the team hub page linking every Lymphatic Support asset
 
-- `salt-v3/` concept 2 short page (17 Nov 2026), the proposed replacement for the live salt-puffy page
+- `salt-v3/` concept 2 short page (17 Nov 2026), live on salt-puffy since 17 Nov
+- `salt-v4/` concept 2 short page V04 (18 Nov 2026): subhead without the capsule, more symptoms, pack choice on phone screen 5
